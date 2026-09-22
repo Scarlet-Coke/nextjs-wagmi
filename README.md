@@ -1,8 +1,8 @@
-# Welcome to the NextJS wagmi starter template 👋
+# Welcome to the Next.js wagmi starter template 👋
 
 Looking to get up and running with a Typescript / NextJS dApp as quickly as possible? You're in the right place! This repo serves as a minimal template for integrating the wagmi React hooks for Ethereum library with Typescript & NextJS. Due to its ease of customizability and extensibility, this template has been styled with the Tailwind CSS framework. Let's get to it!
 
-### Check out the live demo 👉 [NextJS wagmi](https://nextjs-wagmi.vercel.app/)
+### Check out the live demo 👉 [Next.js wagmi](https://nextjs-wagmi.vercel.app/)
 
 ## Get up and running in 3 simple steps:
 
@@ -12,7 +12,7 @@ Looking to get up and running with a Typescript / NextJS dApp as quickly as poss
 npx create-next-app@latest -e https://github.com/Seth-McKilla/nextjs-wagmi
 ```
 
-> Note: The above command automatically downloads and installs the dependencies so no "npm install" or "yarn add" required!
+> Note: The above command automatically downloads and installs the dependencies so no "npm install" or "yarn add" is required!
 
 ### 2. Rename the `.env.local.example` file to `.env.local` and add your Infura API Key
 
